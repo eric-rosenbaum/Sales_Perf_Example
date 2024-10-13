@@ -32,12 +32,4 @@ Make sure you have the following installed:
 - Plotly (`pip install plotly`)
 - Pandas (`pip install pandas`)
 
-### Running the App
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/sales-dashboard.git
-cd sales-dashboard
-
-<img width="1437" alt="Screenshot 2024-10-13 at 4 28 58 PM" src="https://github.com/user-attachments/assets/b8663f3c-e349-4c7f-a823-2dcf2898b693">
